@@ -1,7 +1,16 @@
 {
   "name": "gokomodo-technical-test",
   "version": "0.1.0",
+  "description": "Star wars application for Gokomodo technical test",
   "private": true,
+  "author": "ichsankurnia",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ichsankurnia/star-wars-collection.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ichsankurnia/star-wars-collection/issues"
+  },
   "dependencies": {
     "@headlessui/react": "^1.6.6",
     "@testing-library/jest-dom": "^5.16.5",
